@@ -1,0 +1,5 @@
+{
+  "inputFileUrl": "https://tommi-test-bucket.s3.us-east-1.amazonaws.com/synthesis-3000.txt",
+  "outputFileUrl": "https://tommi-test-bucket.s3.us-east-1.amazonaws.com/synthesis-3000-output.pcm",
+  "provider": "AWS"
+}

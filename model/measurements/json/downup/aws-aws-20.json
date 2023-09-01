@@ -1,0 +1,62 @@
+[
+  {
+    "executionTime": 1338,
+    "downloadTime": 818,
+    "uploadTime": 720,
+    "roundTripTime": 2125
+  },
+  {
+    "executionTime": 1612,
+    "downloadTime": 870,
+    "uploadTime": 942,
+    "roundTripTime": 2131
+  },
+  {
+    "executionTime": 1446,
+    "downloadTime": 865,
+    "uploadTime": 781,
+    "roundTripTime": 1950
+  },
+  {
+    "executionTime": 1506,
+    "downloadTime": 904,
+    "uploadTime": 802,
+    "roundTripTime": 2036
+  },
+  {
+    "executionTime": 1326,
+    "downloadTime": 755,
+    "uploadTime": 571,
+    "roundTripTime": 1874
+  },
+  {
+    "executionTime": 1129,
+    "downloadTime": 661,
+    "uploadTime": 468,
+    "roundTripTime": 1741
+  },
+  {
+    "executionTime": 1156,
+    "downloadTime": 676,
+    "uploadTime": 480,
+    "roundTripTime": 1640
+  },
+  {
+    "executionTime": 1164,
+    "downloadTime": 639,
+    "uploadTime": 525,
+    "roundTripTime": 1698
+  },
+  {
+    "executionTime": 1308,
+    "downloadTime": 752,
+    "uploadTime": 556,
+    "roundTripTime": 2039
+  },
+  {
+    "executionTime": 1137,
+    "downloadTime": 632,
+    "uploadTime": 505,
+    "roundTripTime": 1788
+  }
+]

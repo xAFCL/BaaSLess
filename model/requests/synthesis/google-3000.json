@@ -1,0 +1,5 @@
+{
+  "inputFileUrl": "https://storage.cloud.google.com/tommi-test-bucket/synthesis-3000.txt",
+  "outputFileUrl": "https://storage.cloud.google.com/tommi-test-bucket/synthesis-3000-output.pcm",
+  "provider": "GCP"
+}

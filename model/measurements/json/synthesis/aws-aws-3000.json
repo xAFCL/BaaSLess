@@ -1,0 +1,52 @@
+[
+  {
+    "executionTime": 1419,
+    "synthesisTime": 1108,
+    "roundTripTime": 1922
+  },
+  {
+    "executionTime": 1714,
+    "synthesisTime": 1196,
+    "roundTripTime": 2219
+  },
+  {
+    "executionTime": 1434,
+    "synthesisTime": 1114,
+    "roundTripTime": 2188
+  },
+  {
+    "executionTime": 1545,
+    "synthesisTime": 1099,
+    "roundTripTime": 2042
+  },
+  {
+    "executionTime": 1469,
+    "synthesisTime": 1223,
+    "roundTripTime": 1962
+  },
+  {
+    "executionTime": 1495,
+    "synthesisTime": 1141,
+    "roundTripTime": 2130
+  },
+  {
+    "executionTime": 1403,
+    "synthesisTime": 1152,
+    "roundTripTime": 1941
+  },
+  {
+    "executionTime": 1504,
+    "synthesisTime": 1117,
+    "roundTripTime": 2058
+  },
+  {
+    "executionTime": 1383,
+    "synthesisTime": 1116,
+    "roundTripTime": 1949
+  },
+  {
+    "executionTime": 1206,
+    "synthesisTime": 758,
+    "roundTripTime": 1723
+  }
+]

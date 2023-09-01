@@ -1,0 +1,4 @@
+{
+  "inputFileUrl": "https://tommi-test-bucket.s3.us-east-1.amazonaws.com/recognition-60.wav",
+  "outputFileUrl": "https://tommi-test-bucket.s3.us-east-1.amazonaws.com/recognition-60-output.json"
+}
