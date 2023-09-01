@@ -1,4 +1,4 @@
-# Brute Force Scheduler
+# BaaSLess Scheduler
 
 The scheduler is able to find the best placement for functions, services and storage by estimating the round trip time
 of the functions for each possible placement.
