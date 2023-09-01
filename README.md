@@ -1,19 +1,7 @@
 # Brute Force Scheduler
 
 The scheduler is able to find the best placement for functions, services and storage by estimating the round trip time
-of the functions for each possible placement using the model.
-
-## Objective
-
-The goal of the scheduler is to minimize two objectives:
-
-1) UT + F2 + DT
-2) UT + F4 + DT
-
-UT is the upload time from the previous function to the input bucket. DT is the download time from the output bucket to
-the next function. F2 and F4 are the round trip times of the respective serverless functions.
-
-![scheduler.png](docs/scheduler.png)
+of the functions for each possible placement.
 
 ## Parameter Setup
 
@@ -24,6 +12,8 @@ region.
 
 The **input_size** can be learned from the workflow input, while **output_size** and **work_size** can be
 learned from the workflow result. The workflow was executed with a single input file to learn those parameters. 
+
+The **service time** for S2T and T2S was estimated using the model. The runtime of the other services was measured. 
 
 ## Speedup
 
